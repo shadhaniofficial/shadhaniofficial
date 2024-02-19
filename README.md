@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Shadhani TT! 👋
 
-<!--
-**shadhaniofficial/shadhaniofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 3rd-year student at CEG Campus, Anna University
+- 💻 Passionate about Web Development and UI Design
+- 🏸 Hobbies include playing Handball and Badminton
 
-Here are some ideas to get you started:
+## Technologies
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+
+## Let's Connect!
+Feel free to reach out to me via [LinkedIn](Your LinkedIn Profile Link) or [Twitter](Your Twitter Profile Link). Let's code and create something amazing together! 🚀
