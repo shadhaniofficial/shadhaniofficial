@@ -23,4 +23,4 @@
 - Python
 
 ## Let's Connect!
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/shadhani-tt/)  [Portfolio](https://shadhaniofficial.github.io/PortFolio/). Let's code and create something amazing together! 🚀
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/shadhani-tt/) , [Portfolio](https://shadhaniofficial.github.io/PortFolio/). Let's code and create something amazing together! 🚀
