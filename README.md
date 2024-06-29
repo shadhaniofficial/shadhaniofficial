@@ -20,6 +20,9 @@
 ### Programming
 - C++
 - Java
+- Python
 
 ## Let's Connect!
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/shadhani-tt/). Let's code and create something amazing together! 🚀
+
+Feel free to reach out to me via [PortFolio]([https://www.linkedin.com/in/shadhani-tt/](https://shadhaniofficial.github.io/PortFolio/)).
