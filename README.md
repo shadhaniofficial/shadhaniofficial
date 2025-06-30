@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Shadhani TT
 
 ## 💼 About Me
-I'm a Full Stack Software Developer (SDE 1) with hands-on experience in building scalable web applications using modern technologies like Vue.js, Node.js, and AWS. I specialize in crafting intuitive UIs and robust backend services, and I’m always excited to learn and contribute to meaningful projects.
+I'm a Full Stack Software Developer (SDE 1) with hands-on experience in building scalable web applications using modern technologies like Vue.js, Node.js, and AWS.
 
 Currently working as a Software Development Engineer (SDE 1), after completing a 6-month paid internship in Codestax.ai
 ## 🛠️ Tech Stack
